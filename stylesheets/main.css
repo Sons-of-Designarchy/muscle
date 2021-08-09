@@ -1,0 +1,201 @@
+body {
+  font-family: Futura;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+color: #747474;
+}
+
+.nav-link {
+  color: black;
+}
+
+h1 {
+  font-family: Futura;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 66px;
+color:#FCC953;
+}
+
+h2 {
+  font-family: Futura;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 66px;
+  text-align: center;
+  color: #E93E34;
+}
+
+h3 {
+font-family: Futura;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 53px;
+}
+
+
+
+h4 {
+  font-family: Futura;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 40px;
+/* identical to box height */
+text-align: center;
+text-transform: uppercase;
+}
+
+h5 {
+  font-family: Futura;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 40px;
+  color: #E93E34;
+}
+
+h6 {
+  font-family: Futura;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 40px;
+  color: #E93E34;
+}
+
+.interpuesta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  padding: auto;
+  margin: auto;
+  left: 150px;
+top: -30px;
+}
+  
+.interpuesta-derecha {
+ margin-left: 600px;
+ padding-top: 60px;
+}
+
+#rectangle{
+  margin-left: 180px;
+  width: 126px;
+  height: 4px;
+  background: #FCC953;
+}
+
+#rectangle2{
+  align-items: center;
+  margin-left: 60px;
+
+  background: #FCC953;
+}
+
+#rectangle3{
+  align-items: center;
+  margin-left: 120px;
+  width: 126px;
+  height: 4px;
+  background: #FCC953;
+}
+
+p {font-family: Futura;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  text-align: center;
+  color: #747474;
+}
+
+.imagen-oil {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  padding: auto;
+  margin: auto;
+  
+  
+}
+
+.fondo-img {
+  height: 405px;
+  background-image: url('../Assets/muscle-fondo.jpg');
+  background-repeat: no-repeat;
+ background-size: 740px;
+ background-position: right;
+
+}
+
+.amarillo {
+  display: flex;
+margin: auto;
+padding: auto;
+
+left: 575px;
+top: 1410px;
+}
+
+
+.lista{
+  font-family: Futura;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 40px;
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.motorsm {
+  background-image: url(../Assets/BN-Header\ sm.png);
+  background-repeat: no-repeat;
+  height: 400px;
+}
+
+.interpuestasm {
+ 
+height: 380px;
+position: absolute;
+left: 320px;
+
+}
+
+.mejorasm {
+  text-align: left;
+
+  
+}
+
+.btn-danger {
+ 
+  text-align: center;
+
+width: 240px;
+height: 51px;
+
+}
+
+
+.arriba {
+  position: absolute;
+left: 320px;
+width: 140px;
+height: 41px;
+}
+
+.aplicaciones {
+text-align: center;
+width: 340px;
+height: 51px;
+margin: auto;}
